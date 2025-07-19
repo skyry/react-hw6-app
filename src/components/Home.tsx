@@ -13,7 +13,6 @@ const Home: React.FC = () => {
           <div className="container-fluid py-3">
             <h1 className="display-5 fw-bold mb-3">Ласкаво просимо!</h1>
             <p className="col-md-8 fs-4">Вітаємо на нашому сайті! Ми спеціалізуємося на розробці сучасних веб-додатків, використовуючи найкращі практики та технології JavaScript.</p>
-            <a href="/about" className="btn btn-primary btn-lg mt-3">Дізнатися більше про нас</a>
           </div>
         </div>
         <div className="row">
